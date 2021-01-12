@@ -1,16 +1,31 @@
 {
-    "name": "vika/php",
-    "description": "Vika php SDK",
-    "license": "Apache-2.0",
-    "require": {
-        "php": ">=5.6.0"
-    },
-    "autoload": {
-        "classmap": [
-            "src/Vika.php"
-        ],
-        "psr-4": {
-            "Vika\\": "./src"
-        }
+  "name": "vikadata/vika",
+  "description": "Vika php SDK",
+  "license": "LGPL-2.1",
+  "type": "library",
+  "homepage": "https://vika.cn",
+  "keywords": [
+    "vika",
+    "vikadata",
+    "php-sdk"
+  ],
+  "require": {
+    "php": ">=5.6.0"
+  },
+  "autoload": {
+    "classmap": [
+      "src/Vika.php"
+    ],
+    "psr-4": {
+      "Vika\\": "./src"
     }
+  },
+  "authors": [
+    {
+      "name": "zoe",
+      "email": "zhengxu@vikadata.com",
+      "homepage": "https://github.com/vikadata",
+      "role": "Developer"
+    }
+  ]
 }
