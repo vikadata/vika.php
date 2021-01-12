@@ -9,7 +9,7 @@ php 5.6.0+
 ## 安装
 
 ```shell
-composer install **
+composer require vikadata/vika
 ```
 
 
