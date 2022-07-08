@@ -1,4 +1,6 @@
-# Vika
+# Vika PHP SDK
+
+![Codefactor](https://www.codefactor.io/repository/github/vikadata/vika.php/badge?style=plastic)
 
 [Vika](https://vika.cn) PHP SDK [WIP]
 
