@@ -1,3 +1,7 @@
+# PLEASE NOTE, THIS PROJECT IS NO LONGER BEING MAINTAINED
+
+---
+
 # Vika PHP SDK
 
 ![Codefactor](https://www.codefactor.io/repository/github/vikadata/vika.php/badge?style=plastic)
